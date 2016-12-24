@@ -1,8 +1,5 @@
 package cp.articlerep.ds;
 
-/**
- * @author Ricardo Dias
- */
 public interface List<V> {
 	
 	public void add(V value);

@@ -1,8 +1,5 @@
 package cp.articlerep.ds;
 
-/**
- * @author Ricardo Dias
- */
 public interface Map<K extends Comparable<K>, V> {
 	public V put(K key, V value);
 	public boolean contains(K key);

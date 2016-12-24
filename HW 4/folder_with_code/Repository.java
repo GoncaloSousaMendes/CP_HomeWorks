@@ -10,9 +10,6 @@ import cp.articlerep.ds.HashTable;
 
 import org.deuce.Atomic;
 
-/**
- * @author Ricardo Dias
- */
 public class Repository {
 
 	private Map<String, List<Article>> byAuthor;

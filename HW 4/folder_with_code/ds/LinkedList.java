@@ -1,8 +1,5 @@
 package cp.articlerep.ds;
 
-/**
- * @author Ricardo Dias
- */
 public class LinkedList<V> implements List<V> {
 
 	public class Node {

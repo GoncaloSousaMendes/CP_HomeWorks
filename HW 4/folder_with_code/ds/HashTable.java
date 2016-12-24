@@ -1,8 +1,5 @@
 package cp.articlerep.ds;
 
-/**
- * @author Ricardo Dias
- */
 public class HashTable<K extends Comparable<K>, V> implements Map<K, V> {
 
 	private static class Node {
